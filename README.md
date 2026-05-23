@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahesh Kumar Tippanu</h1>
 
 <h3 align="center">
-AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM University
+AI Systems Engineer | Federated & Explainable AI Researcher | M.Tech CSE @ GITAM University
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Federated+Learning+Researcher;LLM+%26+Multi-Agent+Developer;Biometric+Security+Research;Explainable+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Systems+Engineer;Federated+%26+Explainable+AI+Researcher;LLM+%26+Multi-Agent+Developer;Biometric+Security+Researcher;Building+Secure+%26+Trustworthy+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 
 # 🚀 About Me
 
-- 🎓 M.Tech in Computer Science & Engineering at GITAM University
-- 🔬 Researching Federated Learning, Explainable AI, and Biometric Security
-- 🧠 Working on Multi-Face Registration Attack Detection in Federated Systems
-- ⚙️ Building AI-powered automation and multi-agent systems
+- 🎓 Pursuing M.Tech in Computer Science & Engineering at GITAM University
+- 🔬 Researching Federated Learning, Explainable AI (XAI), and Biometric Security
+- 🧠 Working on Multi-Face Registration Attack Detection in Federated Authentication Systems
+- ⚙️ Building AI-powered automation and multi-agent AI systems
 - 🌉 Transitioned from Civil Engineering to AI & Software Engineering
 - 📚 Interested in Trustworthy AI, ML Security, and Distributed Intelligence
 
 ---
 
-# 🧠 Research Interests
+# 🧠 Research Domains
 
 - Federated Learning
 - Explainable AI (XAI)
@@ -35,6 +35,7 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 - LLM Orchestration
 - ML Security
 - Distributed AI Systems
+- Trustworthy AI
 
 ---
 
@@ -52,9 +53,11 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 ## 🤖 AI / ML
 
 <p>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flowise-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Federated_Learning-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explainable_AI-XAI-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -66,7 +69,7 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 </p>
 
 ## ☁️ DevOps & Cloud
@@ -92,19 +95,21 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 
 ## 📄 WiDS 2026 — Accepted
 
-**Hybrid Identity Enrollment Attacks in Smartphone Face Authentication Systems**
+### “Hybrid Identity Enrollment Attacks in Smartphone Face Authentication Systems”
 
 - Women in Data Science (WiDS) 2026
 - Riyadh, Saudi Arabia
+- Research Area: Federated Biometric Security
 
 ---
 
 ## 📄 IJCB 2026 — Under Review
 
-**A Dual-Signal Unsupervised Framework for Multi-Face Registration Attack Detection in Federated Face Recognition**
+### “A Dual-Signal Unsupervised Framework for Multi-Face Registration Attack Detection in Federated Face Recognition”
 
 - IEEE/IAPR IJCB 2026
 - Rome, Italy
+- Research Area: Federated AI + Explainable Security Systems
 
 ---
 
@@ -112,25 +117,31 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 
 ## 🧠 Hybrid Enrollment Attack Detection
 
-- Federated biometric security research system
-- Multi-face registration attack detection
-- Hybrid anomaly detection across federated clients
+- Federated biometric security research framework
+- Multi-face registration attack detection system
+- Hybrid anomaly detection across distributed clients
 - Achieved **AUC 0.9979 ± 0.0003**
 
+### Focus Areas
+`Federated Learning` `Biometric Security` `Anomaly Detection` `Trustworthy AI`
+
 ### Tech Stack
-`Python` `Federated Learning` `scikit-learn` `Biometric AI`
+`Python` `scikit-learn` `NumPy` `pandas`
 
 ---
 
 ## 🤖 Agentic AI Document Generation System
 
-- Multi-agent AI orchestration platform
-- Automated AI-driven document workflows
-- LLM-powered intelligent validation pipelines
-- API-integrated AI automation system
+- Multi-agent orchestration platform for AI-driven workflows
+- LLM-powered document automation and validation
+- API-integrated intelligent processing pipelines
+- Scalable AI workflow architecture
+
+### Focus Areas
+`LLMs` `Multi-Agent AI` `Workflow Automation` `AI Systems`
 
 ### Tech Stack
-`Python` `Node.js` `LLMs` `Flowise` `LangChain`
+`Python` `Node.js` `LangChain` `Flowise`
 
 ---
 
@@ -166,7 +177,7 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 
 # ✍️ Technical Writing
 
-- 📝 Writing about AI Systems, Federated Learning, and ML Security
+- 📝 Writing about AI Systems, Federated Learning, XAI, and ML Security
 - 🔗 Hashnode Blog: https://hashnode.com/@MTippanu
 - 🌐 Exploring trustworthy and explainable AI architectures
 
@@ -175,21 +186,23 @@ AI Systems Engineer | Federated Learning Researcher | M.Tech CSE @ GITAM Univers
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/mahesh-tippanu" target="blank">
-<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mahesh-kumar-tippanu-343237a5/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://hashnode.com/@MTippanu" target="blank">
-<img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
 <a href="https://www.aptivhires.com/profile/mahesh-tippanu" target="blank">
-<img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
