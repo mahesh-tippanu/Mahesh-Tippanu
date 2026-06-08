@@ -142,7 +142,7 @@ CGPA: 8.58/10 · O Grade (10/10 SGPA) in both project semesters
 *Supervisor: Dr. Eali Stephen Neal Joshua*
 
 **B.Tech, Civil Engineering**
-Andhra University, Visakhapatnam · 2017–2021
+Andhra University, Visakhapatnam · 2014–2020
 
 ---
 
